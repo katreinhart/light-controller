@@ -1,0 +1,17 @@
+{
+  "name": "bolt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "misfit-bolt": "^2.0.1",
+    "misfit-bolt-http": "^1.0.1",
+    "node-schedule": "^1.2.5",
+    "request": "^2.83.0"
+  }
+}
